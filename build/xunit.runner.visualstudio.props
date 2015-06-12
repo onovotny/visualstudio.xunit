@@ -11,6 +11,18 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <Visible>False</Visible>
     </Content>
+
+    <Content Include="$(MSBuildThisFileDirectory)..\_common\xunit.runner.visualstudio.testadapter.pdb">
+      <Link>xunit.runner.visualstudio.testadapter.pdb</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>False</Visible>
+    </Content>
+    <Content Include="$(MSBuildThisFileDirectory)..\_common\xunit.runner.utility.desktop.pdb">
+      <Link>xunit.runner.utility.desktop.pdb</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Visible>False</Visible>
+    </Content>
+    
     <Content Include="$(MSBuildThisFileDirectory)..\_common\xunit.abstractions.dll">
       <Link>xunit.abstractions.dll</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
