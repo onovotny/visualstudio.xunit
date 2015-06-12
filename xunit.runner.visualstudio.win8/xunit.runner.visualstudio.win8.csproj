@@ -47,7 +47,7 @@
     </Reference>
     <Reference Include="xunit.runner.utility.win8, Version=2.0.0.2929, Culture=neutral, PublicKeyToken=8d05b1bb7a6fdb6c, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\xunit.runner.utility.visualstudio.win8.2.0.0\lib\xunit.runner.utility.win8.dll</HintPath>
+      <HintPath>..\xunit.runner.utility.win8.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

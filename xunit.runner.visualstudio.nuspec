@@ -16,7 +16,9 @@
     <!-- Discovery -->
     <file src="xunit.runner.visualstudio.testadapter\bin\Release\xunit.abstractions.dll"                    target="build\_common\" />
     <file src="xunit.runner.visualstudio.testadapter\bin\Release\xunit.runner.utility.desktop.dll"          target="build\_common\" />
+    <file src="xunit.runner.visualstudio.testadapter\bin\Release\xunit.runner.utility.desktop.pdb"          target="build\_common\" />
     <file src="xunit.runner.visualstudio.testadapter\bin\Release\xunit.runner.visualstudio.testadapter.dll" target="build\_common\" />
+    <file src="xunit.runner.visualstudio.testadapter\bin\Release\xunit.runner.visualstudio.testadapter.pdb" target="build\_common\" />
 
     <!-- Execution -->
     <file src="build\xunit.runner.visualstudio.props" target="build\net20\xunit.runner.visualstudio.props" />
